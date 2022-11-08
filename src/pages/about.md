@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 subtitle: ""
 metaDescription: This page is all about me
 date: 2017-01-01T00:00:00.000Z
@@ -8,16 +8,18 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+#### Educational Background
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+I﻿ am currently pursuing a Computer Science and English (Creative Writing) double major as well as a Music Performance minor at Allegheny College in Meadville Pennsylvania.
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+#### W﻿hy I've Chosen to Pursue Computer Science and English
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
+I am hoping to pursue graduate school opportunities in Computer Science, English (Creative Writing), or something that combines the two. I am particularly interested in graduate schools that research Computational Narrative and the facilitation of human connection through Computational Art. When I’m not working on my Computational and Literary pursuits, I am actively involved with the Allegheny Music Department where I participate in Women’s Ensemble, College Choir, Voice Lessons, and Opera Scenes. I am also a devoted member of Allegheny Christian Outreach, Grounds for Change. I work currently as a Choral Librarian/Manager for the choirs as well as a Writing Consultant on campus.
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
 
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
+
+Fun Fact: I am currently Preparing for a full Junior Recital where I will sing 10 pieces in four different languages.
+
+
 
 ![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
