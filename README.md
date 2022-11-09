@@ -22,7 +22,7 @@ Based on the [eleventy-netlify-boilerplate](https://github.com/danurbanowicz/ele
 * Continuous Deployment workflow via [Netlify](https://www.netlify.com/)
 * Base styles powered by [Sakura](https://github.com/oxalorg/sakura) classless css framework
 * Vanilla css for custom styles (keep it simple)
-
+*
 
 ## 🚀 Quick Start
 
