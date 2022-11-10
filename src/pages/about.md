@@ -2,7 +2,7 @@
 title: About Me
 subtitle: ""
 metaDescription: This page is all about my education and things I am interested in.
-date: 2017-01-01T00:00:00.000Z
+date: 2022-11-10T14:11:53.146Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
@@ -18,4 +18,4 @@ I am hoping to pursue graduate school opportunities in Computer Science, English
 
 Fun Fact: I am currently Preparing for a full Junior Recital where I will sing 10 pieces in four different languages.
 
-![Fern in Hand](/src/assets/img/allegheny-college-photo-for-website.jpg "Fern in Hand")
+![Bently Hall at Allegheny College](/src/assets/img/allegheny-college-photo-for-website.jpg "Allegheny College")
