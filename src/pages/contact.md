@@ -4,4 +4,4 @@
 
 ## Phone Number: (570)506-6888
 
-## Linked in Profile Link: 
+## Linked in Profile Link: `https://www.linkedin.com/in/evelyn-griffith-463177253/`
