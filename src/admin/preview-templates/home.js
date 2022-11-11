@@ -88,7 +88,6 @@ const Home = createClass({
             </article>
           </section>
         </div>
-        <div class="home-page__bg-square"></div>
       </main>
     `;
   },
