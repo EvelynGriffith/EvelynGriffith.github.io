@@ -4,13 +4,13 @@
 <div align="center">881 Grammer Rd., Williamsport, PA 17701┃ (570) 506-6888┃evelyngriffith1924@gmail.com</div>
 
 ## EDUCATION
-### Allegheny College - Meadville, PA 	<div align= "left">Anticipated Graduation Date: May 2024</div>
-#### Bachelor of Science in English and Computer Science (Double Major) 	<div align="left">GPA: 3.95/4.00</div>
+### Allegheny College - Meadville, PA 	<div align= "right">Anticipated Graduation Date: May 2024</div>
+#### Bachelor of Science in English and Computer Science (Double Major) 	<div align="right">GPA: 3.95/4.00</div>
 #### Minor: Music Performance (Specialty in Voice)   
 
 ## Distinguishments
-Alden Scholar (Recognized for achieving a 3.5+ GPA)	<div align="left">Fall 2020 - Spring 2022</div>
-Honors Convocation Music Scholarship (Recognized for excellence in music)	Spring 2022
+Alden Scholar (Recognized for achieving a 3.5+ GPA)	<div align="right">Fall 2020 - Spring 2022</div>
+Honors Convocation Music Scholarship (Recognized for excellence in music) <div align="right">Spring 2022</div>
 
 WORK EXPERIENCE
 Interim General Manager – Honor Creation School of Music, Springfield, TN   	                            Summer 2022
