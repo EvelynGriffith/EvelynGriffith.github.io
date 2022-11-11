@@ -1,5 +1,4 @@
 ---
-layout: contact.njk
 title: Resume
 date: 2021-01-01
 permalink: /Resume/index.html
