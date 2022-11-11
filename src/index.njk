@@ -24,15 +24,15 @@ section: home
     </div>
   </div>
 
-  {# Projects #}
+  {# Featured Project! #}
   <hr/>
-  <h2>Projects</h2>
+  <h2>Featured Project!</h2>
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(projects = collections.project | reverse) }}
 
-  {# Articles #}
+  {# Contact Information #}
   <hr/>
-  <h2>Articles</h2>
+  <h2>Contact Information</h2>
   {% from "macros/articlelist.njk" import articlelist %}
   {{ articlelist(
     articles = collections.post | reverse,
