@@ -1,11 +1,11 @@
 
-# <p align=center>>EVELYN GRIFFITH</p>
+# <div align=center>EVELYN GRIFFITH</div>
 
-<p align="center">881 Grammer Rd., Williamsport, PA 17701 ┃ (570) 506-6888 ┃ evelyngriffith1924@gmail.com</p>
+<div align="center">881 Grammer Rd., Williamsport, PA 17701 ┃ (570) 506-6888 ┃ evelyngriffith1924@gmail.com</div>
 
 ## EDUCATION
-### Allegheny College - Meadville, PA 	<p align= "right">Anticipated Graduation Date: May 2024</p>
-#### Bachelor of Science in English and Computer Science (Double Major) 	<div align="right">GPA: 3.95/4.00</div>
+### Allegheny College - Meadville, PA 	<div dir="auto" style="float: right">Anticipated Graduation Date: May 2024</div>
+#### Bachelor of Science in English and Computer Science (Double Major)<div dir="auto" style="float: right">GPA: 3.95/4.00</div>
 #### Minor: Music Performance (Specialty in Voice)   
 
 ## Distinguishments
