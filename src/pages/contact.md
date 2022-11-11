@@ -75,7 +75,7 @@ Honors Convocation Music Scholarship (Recognized for excellence in music)     Sp
 ##### The Allegheny Review, Allegheny College
 ##### 2022-2024 Academic Years
 
-## EXTRACURRICULAR ACTIVITIES
+#### EXTRACURRICULAR ACTIVITIES
 
 - Voice Lessons (10 years)
 - College Choir (3 years)
@@ -84,4 +84,4 @@ Honors Convocation Music Scholarship (Recognized for excellence in music)     Sp
 - Allegheny Christian Outreach (2 years)
 - Summer Volunteer at James V. Brown Library (3 months)
 
-## References available upon request.
+#### References available upon request.
