@@ -8,7 +8,7 @@
 #### Bachelor of Science in English and Computer Science (Double Major)<div dir="auto" style="float: right">GPA: 3.95/4.00</div>
 #### Minor: Music Performance (Specialty in Voice)   
 
-## Distinguishments
+## DISTINGUISHMENTS
 Alden Scholar (Recognized for achieving a 3.5+ GPA)	<div dir="auto" style="float: right">Fall 2020 - Spring 2022</div>
 Honors Convocation Music Scholarship (Recognized for excellence in music) <div dir="auto" style="float: right">Spring 2022</div>
 
