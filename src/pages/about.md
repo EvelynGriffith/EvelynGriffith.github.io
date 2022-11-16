@@ -18,4 +18,39 @@ I am hoping to pursue graduate school opportunities in Computer Science, English
 
 Fun Fact: I am currently Preparing for a full Junior Recital where I will sing 10 pieces in four different languages.
 
+#### List of Skills
+
+### Soft Skills
+
+- Writing Creatively
+- Computer Programming
+- Technical Writing
+- Novel Writing
+- Literary Analysis
+- Logo Design
+- Graphic Design
+- Administrative Skills
+- Public Speaking
+- Teaching (Experience with Children and Adults)
+- Client Management
+- Employee Management
+
+### Concrete Skills
+
+- Python
+- Base Level knowledge of Javascript, CSS, and HTML
+- Markdown
+- Github Flow
+- Inkscape
+- Canva
+- Gimp
+- Photoshop
+- Microsoft Excel
+- Microsoft PowerPoint
+- Microsoft Word
+- Google Docs
+- Google Sheets
+- Google Slides
+
+
 ![Bently Hall at Allegheny College](/src/assets/img/allegheny-college-photo-for-website.jpg "Allegheny College")
