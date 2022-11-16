@@ -20,7 +20,7 @@ Fun Fact: I am currently Preparing for a full Junior Recital where I will sing 1
 
 #### List of Skills
 
-### Soft Skills
+##### Soft Skills
 
 - Writing Creatively
 - Computer Programming
@@ -35,7 +35,7 @@ Fun Fact: I am currently Preparing for a full Junior Recital where I will sing 1
 - Client Management
 - Employee Management
 
-### Concrete Skills
+##### Concrete Skills
 
 - Python
 - Base Level knowledge of Javascript, CSS, and HTML
@@ -52,5 +52,32 @@ Fun Fact: I am currently Preparing for a full Junior Recital where I will sing 1
 - Google Sheets
 - Google Slides
 
+#### Relevant Course Work
+
+##### Computer Science
+
+- Web Development
+- Data Analysis
+- Computational Expression
+- Discrete Structures
+- Robotic Agents
+- Software Innovation 1
+
+##### English
+
+- Literature and the Arts
+- Creative Writing Fiction
+- Advanced Creative Writing Fiction
+- Children’s Literature
+- Forms of Drama
+- Books and Literary Community
+- Magic and Transformation in Medieval Literature
+
+##### Music
+
+- Music Theory
+- Music History
+- Opera Scenes
+- Private Voice Lessons
 
 ![Bently Hall at Allegheny College](/src/assets/img/allegheny-college-photo-for-website.jpg "Allegheny College")
