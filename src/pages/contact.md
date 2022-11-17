@@ -73,14 +73,14 @@ Honors Convocation Music Scholarship (Recognized for excellence in music)     Sp
 - Responsible for administrative responsibilities such as organizing student information, taking attendance, creating and maintaining spreadsheets that organize needed information, organized conductor notes, etc.
 
 ##### Writing Consultant, Allegheny College
-##### 2022-2024 Academic Years
+##### 2022-2023 Academic Year
 
 - responsible for advising students on how to improve writing across all collegiate disciplines
 - worked as a team with a shift partner to facilitate students success
 - provided one on one consultations for 30 minutes to an hour
 
 ##### The Allegheny Review, Allegheny College
-##### 2022-2024 Academic Years
+##### 2022-2023 Academic Year
 
 - Responsible for reading and evaluating undergraduate submissions
 - Asked to provide opinions and give weigh in on what should be added to the final product
