@@ -24,7 +24,7 @@ Honors Convocation Music Scholarship (Recognized for excellence in music)     Sp
 - Took care of all facility maintenance
 - Taught approximately 70 hours of Piano and Vocal lessons to students ranging from 5 -12 years of age
 - Managed staff of five teachers with over 40 students
-- Utilized mymusicstaff software to manage matters pertaining to employees, clients, and scheduling.
+- Utilized mymusicstaff software to manage matters pertaining to employees, clients, and scheduling
 
 ##### Intern - Discovery Machine, Inc., Williamsport, PA
 ##### Summer 2016 - Summer 2020 (Seasonal)
@@ -56,21 +56,32 @@ Honors Convocation Music Scholarship (Recognized for excellence in music)     Sp
 ##### CE Librarian/Manager, Allegheny College
 ##### 2022-2023 Academic Year
 
-- Responsible for...
+- Responsible for management and facilitation of choral needs
+- Worked closely with Dr. Niblock to facilitate choral success during the concert
+- Worked with outside sources to facilitate the production of choral materials such as the choir program cover
+- Responsible for administrative responsibilities such as organizing student information, taking attendance, creating and maintaining spreadsheets that organize needed information, organized conductor notes, etc.
 
 ##### Writing Consultant, Allegheny College
 ##### 2022-2024 Academic Years
 
+- responsible for advising students on how to improve writing across all collegiate disciplines
+- worked as a team with a shift partner to facilitate students success
+- provided one on one consultations for 30 minutes to an hour
+
 ##### The Allegheny Review, Allegheny College
 ##### 2022-2024 Academic Years
+
+- Responsible for reading and evaluating undergraduate submissions
+- Asked to provide opinions and give weigh in on what should be added to the final product
+- worked with a team of other undergraduate students to determine the best pieces to be added to the Review
+- Learned to advocate for admired pieces in a respectful and concise way within a literary analytical setting
 
 ## EXTRACURRICULAR ACTIVITIES
 
 - Voice Lessons (10 years)
 - College Choir (3 years)
 - Women’s Ensemble (3 years)
-- Volunteer at Grounds for Change (2 years)
+- Volunteer at Grounds for Change (2.5 years)
 - Allegheny Christian Outreach (2 years)
-- Summer Volunteer at James V. Brown Library (3 months)
 
 ## References available upon request.
