@@ -11,7 +11,7 @@ eleventyNavigation:
 
 # <div align=center>EVELYN GRIFFITH</div>
 
-<div align="center">881 Grammer Rd., Williamsport, PA 17701 ┃ (570) 506-6888 ┃ evelyn@griffith.llc</div>
+<div align="center">881 Grammer Rd., Williamsport, PA 17701 | evelyn@griffith.llc</div>
 
 #### EDUCATION
 ##### Allegheny College - Meadville, PA
