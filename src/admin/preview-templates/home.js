@@ -17,7 +17,7 @@ const Home = createClass({
           <!-- Hero -->
           <div class="hero">
             <div class="hero__col">
-              <h1 class="hero__title gradient-text">${entry.getIn(['data', 'title'], null)}</h1>
+              <h2 class="hero__title gradient-text">${entry.getIn(['data', 'title'], null)}</h2>
               <div class="hero__body">${this.props.widgetFor('body')}</div>
             </div>
             <div class="hero__col">
