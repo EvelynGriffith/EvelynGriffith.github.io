@@ -18,14 +18,11 @@ I am hoping to pursue graduate school opportunities in Computer Science, English
 
 Fun Fact: I am currently Preparing for a full Junior Recital where I will sing 10 pieces in four different languages.
 
+#### List of Skills
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Soft Skills</b></td>
-    <td><b style="font-size:30px">Concrete Skills</b></td>
- </tr>
- <tr>
-    <td>- Writing Creatively
+##### Soft Skills
+
+- Writing Creatively
 - Computer Programming
 - Technical Writing
 - Novel Writing
@@ -36,8 +33,11 @@ Fun Fact: I am currently Preparing for a full Junior Recital where I will sing 1
 - Public Speaking
 - Teaching (Experience with Children and Adults)
 - Client Management
-- Employee Management</td>
-    <td>- Python
+- Employee Management
+
+##### Concrete Skills
+
+- Python
 - Base Level knowledge of Javascript, CSS, and HTML
 - Markdown
 - Github Flow
@@ -50,9 +50,7 @@ Fun Fact: I am currently Preparing for a full Junior Recital where I will sing 1
 - Microsoft Word
 - Google Docs
 - Google Sheets
-- Google Slides</td>
- </tr>
-</table>
+- Google Slides
 
 #### Relevant Course Work
 
