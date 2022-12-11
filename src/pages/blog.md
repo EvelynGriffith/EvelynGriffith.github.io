@@ -1,7 +1,7 @@
 ---
 title: Creative Writing
 date: 2021-01-01
-permalink: /Resume/index.html
+permalink: /Creative Writing/index.html
 metaDescription: Here is where I will display some of my Creative Writing pursuits!
 subtitle: Please take a look at some of my pursuits in Creative Writing!
 eleventyNavigation: 
