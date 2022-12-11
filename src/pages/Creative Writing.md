@@ -5,6 +5,6 @@ permalink: /Resume/index.html
 metaDescription: 
 subtitle: Please take a look at some of my pursuits in Creative Writing!
 eleventyNavigation:
-  key: Resume
+  key: Blog
   order: 4
 ---
