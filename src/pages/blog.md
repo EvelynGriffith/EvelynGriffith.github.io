@@ -8,3 +8,7 @@ eleventyNavigation:
   key: Creative Writing
   order: 4
 ---
+
+# Education in Creative Writing
+
+- I am pursuing a bachelors degree in Creative Writing at Allegheny College, and I am interested in pursuing MFA programs in the future!
