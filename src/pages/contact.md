@@ -94,6 +94,6 @@ Honors Convocation Music Scholarship (Recognized for excellence in music)     Sp
 - College Choir (3 years)
 - Women’s Ensemble (3 years)
 - Volunteer at Grounds for Change (2.5 years)
-- Allegheny Christian Outreach (2 years)
+- Allegheny Christian Outreach Member and Group Leader (2 years)
 
 ## References available upon request.
