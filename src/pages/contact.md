@@ -26,7 +26,7 @@ Honors Convocation Music Scholarship (Recognized for excellence in music)     Sp
 
 #### WORK EXPERIENCE
 
-##### CE Librarian/Manager, Allegheny College
+##### CE Librarian/Manager, Allegheny College Choirs
 ##### 2022-2023 Academic Year
 
 - Responsible for management and facilitation of choral needs
