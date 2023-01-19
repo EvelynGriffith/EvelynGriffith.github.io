@@ -17,7 +17,7 @@ eleventyNavigation:
 ##### Allegheny College - Meadville, PA
 Anticipated Graduation Date: May 2024
 ##### Bachelor of Science in English and Computer Science (Double Major)
-GPA: 3.95/4.00
+GPA: 3.97/4.00
 ##### Minor: Music Performance (Specialty in Voice)
 
 #### DISTINGUISHMENTS
