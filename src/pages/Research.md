@@ -16,4 +16,7 @@ eleventyNavigation:
 - My original idea for my research was to write a domain specific language that I could then encorporate as a communication device for a character in a young adult or middle grade novel. This idea was complex, and I wasn't sure how I would be able to encorporate the language in a way that still played into the interests of my audience. I was also concerned that there would be no way to express how the language worked within the novel, so I changed the idea slightly in order to better adjust for these concerns.
 
 #### Post #2
+
+- My alteration to my idea is that I now want to create an AI program that allows me to predict character behaviors. This would hopefully be used as a character development tool for writers. How it would work is that I would 
+
 #### Post #3
