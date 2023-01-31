@@ -15,7 +15,7 @@ eleventyNavigation:
 
 For more information about me, please go to the About tab at the top of the website!
 
-#### Post #2    1/31/2023
+#### Post #2    Date: 1/31/2023
 
 My original idea for my research was to write a domain specific language that I could then incorporate as a communication device for a character in a young adult or middle grade novel. This idea was complicated because I wasn't sure how I would be able to incorporate the language in a way that still played into the interests of my audience, as well as the plot and style of the written story. I was also concerned that there would be no way to express how the language worked within the novel, and therefore having it in the novel would be rendered obsolete.
 
