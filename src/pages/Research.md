@@ -13,7 +13,10 @@ eleventyNavigation:
 
 #### Post #1
 
-For more information about me, please go to the About tab at the top of the website!
+Hello and Welcome to my research blog,
+My name is Evelyn, and I am a Junior at Allegheny College. I am a double major in Computer Science and English(Emphasis in Creative Writing). A fun fact about me is that I am an Opera singer, trained for performance since I was 10, and I recently performed a Junior recital which was ten pieces long and spanned four different languages: English, French, Italian, and German!
+
+I am hoping to start doing research in Artificial Intelligence, and specifically the study of Artificial Intelligence and how it can begin to predict human behaviors. Please continue reading the second post for more information regarding my specific idea!
 
 #### Post #2    Date: 1/31/2023
 
