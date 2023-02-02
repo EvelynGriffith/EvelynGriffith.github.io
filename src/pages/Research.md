@@ -18,6 +18,8 @@ My name is Evelyn, and I am a Junior at Allegheny College. I am a double major i
 
 I am hoping to start doing research in Artificial Intelligence, and specifically the study of Artificial Intelligence and how it can begin to predict human behaviors. Please continue reading the second post for more information regarding my specific idea!
 
+For more information about me, please go to the About tab at the top of the website!
+
 #### Post #2    Date: 1/31/2023
 
 My original idea for my research was to write a domain specific language that I could then incorporate as a communication device for a character in a young adult or middle grade novel. This idea was complicated because I wasn't sure how I would be able to incorporate the language in a way that still played into the interests of my audience, as well as the plot and style of the written story. I was also concerned that there would be no way to express how the language worked within the novel, and therefore having it in the novel would be rendered obsolete.
