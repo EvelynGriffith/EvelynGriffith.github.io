@@ -32,7 +32,7 @@ What I will achieve by giving these surveys is that I can then cross-reference w
 
 Hopefully, in the end, this project can be a way of expressing how humans and AI can be used TOGETHER to create art, and that art is human, but that it can be influenced and helped by computational means.
 
-### Post #3   Date: 2/2/2023
+#### Post #3   Date: 2/2/2023
 
 This article is meaningful to my work because it begins to go into the ideas I have regarding behavior prediction AI. What I would like to do is create a program that can predict character behaviors. This is different than the article because the article wants to spit out plot points for the narrative arc, while I would like to base plot points off of character decisions. What I liked about this paper, however, is that I am hoping to do some crowd information gathering in order to make my program work effectively. What I would like to do is use a survey of the English department students (and anyone that has read the books that I am planning to ask questions about), and I would ask them to tell me what they think a character (Jane Eyre for example) would do in a situation that is not from that character's novel. This would help me to tell whether or not the program is telling me roughly what humans think the character would do and thus allow me to match up the values of the human understanding of the characters with the program's understanding of the characters. The article begins to discuss this by suggesting that crowd sourcing is important when regarding the generation of stories.
 
