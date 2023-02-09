@@ -25,8 +25,10 @@ Honors Convocation Music Scholarship (Recognized for excellence in music)     Sp
 
 #### WORK EXPERIENCE
 
+
 ##### Fulbright MITACS Globalink Fellowship Intern, Trinity Western University
 ##### Summer 2023
+- 
 
 ##### CE Librarian/Manager, Allegheny College Choirs
 ##### 2022-2023 Academic Year
