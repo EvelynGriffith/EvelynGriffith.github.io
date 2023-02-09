@@ -14,9 +14,9 @@ I﻿ am currently pursuing a Computer Science and English (Creative Writing) dou
 
 #### W﻿hy I've Chosen to Pursue Computer Science and English
 
-I am hoping to pursue graduate school opportunities in Computer Science, English (Creative Writing), or something that combines the two. I am particularly interested in graduate schools that research Computational Narrative and the facilitation of human connection through Computational Art. When I’m not working on my Computational and Literary pursuits, I am actively involved with the Allegheny Music Department where I participate in Women’s Ensemble, College Choir, Voice Lessons, and Opera Scenes. I am also a devoted member of Allegheny Christian Outreach, and I volunteer at Grounds for Change. I work currently as a Choral Librarian/Manager for the choirs as well as a Writing Consultant on campus.
+I am hoping to pursue graduate school opportunities in Computer Science, English (Creative Writing), or something that combines the two. I am particularly interested in graduate schools that research Computational Narrative and the facilitation of human connection through Computational Art. When I’m not working on my Computational and Literary pursuits, I am actively involved with the Allegheny Music Department where I participate in Women’s Ensemble, College Choir, Voice Lessons, and Opera Scenes. I am also a Junior Editor of the Allegheny Review as well as a devoted member and Leader of Allegheny Christian Outreach. I work currently as a Choral Librarian/Manager for the Allegheny Choirs as well as a Writing Consultant on campus.
 
-Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in four different languages.
+Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in four different languages: French, German, Italian, and English.
 
 #### List of Skills
 
@@ -51,6 +51,7 @@ Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in f
 - Google Docs
 - Google Sheets
 - Google Slides
+- Singing
 
 #### Relevant Course Work
 
@@ -62,16 +63,20 @@ Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in f
 - Discrete Structures
 - Robotic Agents
 - Software Innovation 1
+- Programming Languages
+- Algorithm Analysis
+- Independent Study: Unity Game Development Platform
 
 ##### English
 
 - Literature and the Arts
-- Creative Writing Fiction
-- Advanced Creative Writing Fiction
+- Fiction Writing
+- Advanced Fiction Writing
 - Children’s Literature
 - Forms of Drama
 - Books and Literary Community
 - Magic and Transformation in Medieval Literature
+- Creative Nonfiction Writing
 
 ##### Music
 
