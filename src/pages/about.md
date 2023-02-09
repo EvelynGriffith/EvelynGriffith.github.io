@@ -85,4 +85,4 @@ Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in f
 - Opera Scenes
 - Private Voice Lessons
 
-![Picture of Evelyn Griffith Mid Recital](/src/assets/img/Recital-Picture-1.png "Evelyn Griffith Nov. 5th, 2022")
+![Picture of Evelyn Griffith Mid Recital](/src/assets/img/Recital-Picture-5.png "Evelyn Griffith Nov. 5th, 2022")
