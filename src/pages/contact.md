@@ -21,14 +21,17 @@ GPA: 3.97/4.00
 
 #### DISTINGUISHMENTS
 Alden Scholar (Recognized for achieving a 3.5+ GPA)                           Spring 2020, Spring 2021, Spring 2022
+
 Honors Convocation Music Scholarship (Recognized for excellence in music)     Spring 2022
+
+Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series       Spring 2023
 
 #### WORK EXPERIENCE
 
 
-##### Fulbright MITACS Globalink Fellowship Intern, Trinity Western University
+##### Fulbright-MITACS Globalink Fellowship Intern, Trinity Western University
 ##### Summer 2023
-- 
+
 
 ##### CE Librarian/Manager, Allegheny College Choirs
 ##### 2022-2023 Academic Year
@@ -44,8 +47,9 @@ Honors Convocation Music Scholarship (Recognized for excellence in music)     Sp
 - responsible for advising students on how to improve writing across all collegiate disciplines
 - worked as a team with a shift partner to facilitate students success
 - provided one on one consultations for 30 minutes to an hour
+- lead brainstorming sessions for student Senior Thesis Projects
 
-##### The Allegheny Review, Allegheny College
+##### Junior Editor, The Allegheny Review
 ##### 2022-2023 Academic Year
 
 - Responsible for reading and evaluating undergraduate submissions
