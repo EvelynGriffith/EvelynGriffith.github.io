@@ -20,11 +20,11 @@ Anticipated Graduation Date: May 2024
 GPA: 3.97/4.00
 
 #### DISTINGUISHMENTS
-`Alden Scholar (Recognized for achieving a 3.5+ GPA)`                           Spring 2020, Spring 2021, Spring 2022
+Alden Scholar (Recognized for achieving a 3.5+ GPA)                             `Spring 2020, Spring 2021, Spring 2022`
 
-`Honors Convocation Music Scholarship (Recognized for excellence in music)`     Spring 2022
+Honors Convocation Music Scholarship (Recognized for excellence in music)       `Spring 2022`
 
-`Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series`       Spring 2023
+Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series         `Spring 2023`
 
 #### WORK EXPERIENCE
 
