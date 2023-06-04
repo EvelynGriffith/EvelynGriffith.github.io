@@ -20,7 +20,7 @@ Anticipated Graduation Date: May 2024
 GPA: 3.96/4.00
 
 #### DISTINGUISHMENTS
-Alden Scholar (Recognized for achieving a 3.5+ GPA)            `Spring 2020, Spring 2021, Spring 2022`
+Alden Scholar (Recognized for achieving a 3.5+ GPA)            `Spring 2020 - Spring 2023`
 
 Honors Convocation Music Scholarship                                                     `Spring 2022`
 (Recognized for excellence in music) 
