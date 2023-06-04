@@ -20,11 +20,13 @@ Anticipated Graduation Date: May 2024
 GPA: 3.97/4.00
 
 #### DISTINGUISHMENTS
-Alden Scholar (Recognized for achieving a 3.5+ GPA)                             `Spring 2020, Spring 2021, Spring 2022`
+Alden Scholar (Recognized for achieving a 3.5+ GPA)                        `Spring 2020, Spring 2021, Spring 2022`
 
-Honors Convocation Music Scholarship (Recognized for excellence in music)       `Spring 2022`
+Honors Convocation Music Scholarship (Recognized for excellence in music)                            `Spring 2022`
 
-Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series         `Spring 2023`
+James Meadowcroft Memorial Award (Recognized for Excellence in Academics, Spirituality, and Music)   `Spring 2023`
+
+Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series                              `Spring 2023`
 
 #### WORK EXPERIENCE
 
@@ -32,9 +34,13 @@ Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series         
 ##### Fulbright-MITACS Globalink Fellowship Intern, Trinity Western University
 ##### Summer 2023
 
+- Conducted a full Literature Review
+- Responsible for developing complex technical systems
+- Conducted weekly progress report presentations to the senior project manager regarding project development and productivity
+- Worked as part of a team to develop new technologies which would be able to produce a publishable research paper
 
 ##### CE Librarian/Manager, Allegheny College Choirs
-##### 2022-2023 Academic Year
+##### 2022-2024 Academic Year
 
 - Responsible for management and facilitation of choral needs
 - Worked closely with Dr. Niblock to facilitate choral success during the concert
@@ -42,15 +48,15 @@ Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series         
 - Responsible for administrative responsibilities such as organizing student information, taking attendance, creating and maintaining spreadsheets that organize needed information, organized conductor notes, etc.
 
 ##### Writing Consultant, Allegheny College
-##### 2022-2023 Academic Year
+##### 2022-2024 Academic Year
 
 - responsible for advising students on how to improve writing across all collegiate disciplines
 - worked as a team with a shift partner to facilitate students success
 - provided one on one consultations for 30 minutes to an hour
 - lead brainstorming sessions for student Senior Thesis Projects
 
-##### Junior Editor, The Allegheny Review
-##### 2022-2023 Academic Year
+##### Senior Editor, The Allegheny Review
+##### 2022-2024 Academic Year
 
 - Responsible for reading and evaluating undergraduate submissions
 - Asked to provide opinions and give weigh in on what should be added to the final product
@@ -101,7 +107,7 @@ Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series         
 - Voice Lessons (11 years)
 - College Choir (3 years)
 - Women’s Ensemble (3 years)
-- Volunteer at Grounds for Change (2.5 years)
 - Allegheny Christian Outreach Member and Group Leader (3 years)
+- Volunteer at Grounds for Change (2.5 years)
 
 ## References available upon request.
