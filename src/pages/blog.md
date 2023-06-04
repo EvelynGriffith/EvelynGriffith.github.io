@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ### Education in Creative Writing
 
-- I am currently pursuing a bachelors degree in Creative Writing at Allegheny College! I am interested in pursuing both jobs in Children's Literature Publishing as well as MFA programs.
+- I am currently pursuing a bachelors degree in Creative Writing at Allegheny College! I am interested in pursuing both jobs in Children's Literature Publishing as well as MFA and Ph.D. creative Writing programs. I am also currently working on a Senior Thesis Project in which I will produce fifty to seventy pages of fiction writing!
 
 ### Publications
 
