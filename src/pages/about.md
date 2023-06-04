@@ -55,6 +55,21 @@ Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in f
 
 #### Relevant Course Work
 
+##### English (Creative Writing)
+
+- Literature and the Arts
+- Fiction Writing
+- Advanced Fiction Writing
+- Children’s Literature
+- Forms of Drama
+- Books and Literary Community
+- Magic and Transformation in Medieval Literature
+- Creative Nonfiction Writing
+- LatinX Literatures - Scheduled Fall 2023
+- Advanced Fiction Writing 2 - scheduled Fall 2023
+- Advanced Creative Nonfiction Writing - Scheduled Spring 2024
+- 
+
 ##### Computer Science
 
 - Web Development
@@ -67,21 +82,11 @@ Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in f
 - Algorithm Analysis
 - Independent Study: Unity Game Development Platform
 
-##### English
-
-- Literature and the Arts
-- Fiction Writing
-- Advanced Fiction Writing
-- Children’s Literature
-- Forms of Drama
-- Books and Literary Community
-- Magic and Transformation in Medieval Literature
-- Creative Nonfiction Writing
-
 ##### Music
 
-- Music Theory
-- Music History
+- Music Theory 1
+- Music History 1
+- Music History 2 - Scheduled Spring 2024
 - Opera Scenes
 - Private Voice Lessons
 
