@@ -33,7 +33,7 @@ Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series         
 #### WORK EXPERIENCE
 
 
-##### Fulbright-MITACS Globalink Fellowship Intern, Trinity Western University
+##### Fulbright-MITACS Globalink Fellowship, Trinity Western University
 ##### Summer 2023
 
 - Conducted a full Literature Review
