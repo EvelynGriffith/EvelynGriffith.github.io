@@ -10,11 +10,13 @@ eleventyNavigation:
 ---
 #### Educational Background
 
-I﻿ am currently pursuing a Computer Science and English (Creative Writing) double major at Allegheny College in Meadville Pennsylvania.
+I﻿ am currently pursuing English (Creative Writing) with a double minor in Computer Science and Music Performance at Allegheny College in Meadville Pennsylvania.
 
-#### W﻿hy I've Chosen to Pursue Computer Science and English
+#### W﻿hy I've Chosen to Pursue Creative Writing
 
-I am hoping to pursue graduate school opportunities in Computer Science, English (Creative Writing), or something that combines the two. I am particularly interested in graduate schools that research Computational Narrative and the facilitation of human connection through Computational Art. When I’m not working on my Computational and Literary pursuits, I am actively involved with the Allegheny Music Department where I participate in Women’s Ensemble, College Choir, Voice Lessons, and Opera Scenes. I am also a Junior Editor of the Allegheny Review as well as a devoted member and Leader of Allegheny Christian Outreach. I work currently as a Choral Librarian/Manager for the Allegheny Choirs as well as a Writing Consultant on campus.
+I am hoping to pursue graduate school opportunities in English (Creative Writing). I am particularly interested in graduate schools that have full time Ph.d. programs centered around writing for children or adolescents. I am also very interested in pursuing jobs in Children's publishing.
+
+When I'm not working toward my Literary pursuits, I am actively involved with the Allegheny Music Department where I participate in Women’s Ensemble, College Choir, Voice Lessons, and Opera Scenes. I am also a Senior Editor of the Allegheny Review as well as a devoted member and Leader of Allegheny Christian Outreach. I work currently as a Choral Librarian/Manager for the Allegheny Choirs as well as a Writing Consultant on campus.
 
 Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in four different languages: French, German, Italian, and English.
 
