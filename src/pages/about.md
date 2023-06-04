@@ -18,6 +18,10 @@ I am hoping to pursue graduate school opportunities in English (Creative Writing
 
 When I'm not working toward my Literary pursuits, I am actively involved with the Allegheny Music Department where I participate in Women’s Ensemble, College Choir, Voice Lessons, and Opera Scenes. I am also a Senior Editor of the Allegheny Review as well as a devoted member and Leader of Allegheny Christian Outreach. I work currently as a Choral Librarian/Manager for the Allegheny Choirs as well as a Writing Consultant on campus.
 
+###### My Current Pursuits - 6/4/2023
+
+I have been awarded a Fulbright-MITACS Globalink Fellowship for the Summer of 2023 and as such I am currently working as a Computer Science Research Fellow at Trinity Western University in British Columbia, Canada.
+
 Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in four different languages: French, German, Italian, and English.
 
 #### List of Skills
