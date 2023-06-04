@@ -68,7 +68,6 @@ Fun Fact: I recently performed a full Junior Recital where I sang 10 pieces in f
 - LatinX Literatures - Scheduled Fall 2023
 - Advanced Fiction Writing 2 - scheduled Fall 2023
 - Advanced Creative Nonfiction Writing - Scheduled Spring 2024
-- 
 
 ##### Computer Science
 
