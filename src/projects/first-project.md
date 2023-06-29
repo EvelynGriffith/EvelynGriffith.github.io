@@ -1,6 +1,6 @@
 ---
 title: Jabberwocky Computational Poetry
-emoji: 😁
+emoji: 
 date: 2021-02-01T00:00:00.000Z
 summary: Take three well-known novels and jumble the words to create non-sense
   poetry that resembles the Jabberwocky in terms of the unconventional creation
