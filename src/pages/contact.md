@@ -23,10 +23,14 @@ GPA: 3.96/4.00
 Alden Scholar (Recognized for achieving a 3.5+ GPA)            `Spring 2020 - Spring 2023`
 
 Honors Convocation Music Scholarship                                                     `Spring 2022`
-(Recognized for excellence in music) 
+(Recognized for excellence in music)
 
-James Meadowcroft Memorial Award                                                         `Spring 2023`
+James Edward Meadowcroft Memorial Award                                                         `Spring 2023`
 (Recognized for Excellence in Academics, Spirituality, and Music)
+
+Belle McClintock Fry Award
+`Spring 2023`
+(An award given to a student by vote of the student body to be the most talented singer in the college)
 
 Introduced Cara Blue Adams at the Allegheny Single Voice Reading Series                  `Spring 2023`
 
