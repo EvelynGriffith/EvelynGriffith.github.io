@@ -24,6 +24,8 @@ Alden Scholar (Recognized for achieving a 3.5+ GPA)            `Spring 2020 - Sp
 
 Honors Convocation Music Scholarship                                                     `Spring 2022`
 (Recognized for excellence in music)
+Trying to committ
+
 
 James Edward Meadowcroft Memorial Award                                                         `Spring 2023`
 (Recognized for Excellence in Academics, Spirituality, and Music)
