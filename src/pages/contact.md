@@ -28,7 +28,7 @@ Honors Convocation Music Scholarship                                            
 James Edward Meadowcroft Memorial Award                                                         `Spring 2023`
 (Recognized for Excellence in Academics, Spirituality, and Music)
 
-Belle McClintock Fry Award
+Belle McClintock Fry Award 
 `Spring 2023`
 (An award given to a student by vote of the student body to be the most talented singer in the college)
 
